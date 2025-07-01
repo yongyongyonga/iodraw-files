@@ -51,22 +51,37 @@
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-21" value="开始" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry y="510" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UdWBhbD0dX8YXT-9MLX4-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UdWBhbD0dX8YXT-9MLX4-24" target="UdWBhbD0dX8YXT-9MLX4-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-24" value="壳体上料" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="100" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UdWBhbD0dX8YXT-9MLX4-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UdWBhbD0dX8YXT-9MLX4-32" target="UdWBhbD0dX8YXT-9MLX4-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-32" value="芯体上料" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="200" y="510" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UdWBhbD0dX8YXT-9MLX4-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UdWBhbD0dX8YXT-9MLX4-33" target="UdWBhbD0dX8YXT-9MLX4-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-33" value="芯体吊装" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="300" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UdWBhbD0dX8YXT-9MLX4-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UdWBhbD0dX8YXT-9MLX4-34" target="UdWBhbD0dX8YXT-9MLX4-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-34" value="芯体与壳体装配" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="400" y="510" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UdWBhbD0dX8YXT-9MLX4-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UdWBhbD0dX8YXT-9MLX4-35" target="UdWBhbD0dX8YXT-9MLX4-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-35" value="成品回箱" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="520" y="510" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UdWBhbD0dX8YXT-9MLX4-36" value="成品回箱" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="UdWBhbD0dX8YXT-9MLX4-36" value="结束" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="620" y="510" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
