@@ -66,6 +66,9 @@
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-35" value="成品回箱" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="520" y="510" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UdWBhbD0dX8YXT-9MLX4-36" value="成品回箱" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="620" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
