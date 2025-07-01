@@ -22,8 +22,8 @@
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-7" value="芯体伺服滑台" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="250" y="300" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UdWBhbD0dX8YXT-9MLX4-10" value="壳体伺服滑台" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="260" y="250" width="80" height="40" as="geometry" />
+        <mxCell id="UdWBhbD0dX8YXT-9MLX4-10" value="工件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="350" y="240" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
