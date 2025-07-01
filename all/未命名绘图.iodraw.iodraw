@@ -54,8 +54,11 @@
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-24" value="壳体上料" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="100" y="510" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UdWBhbD0dX8YXT-9MLX4-32" value="壳体上料" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="110" y="520" width="80" height="40" as="geometry" />
+        <mxCell id="UdWBhbD0dX8YXT-9MLX4-32" value="芯体上料" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="200" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UdWBhbD0dX8YXT-9MLX4-33" value="芯体上料" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="210" y="520" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
