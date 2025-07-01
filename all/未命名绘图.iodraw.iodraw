@@ -51,22 +51,11 @@
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-21" value="开始" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry y="510" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UdWBhbD0dX8YXT-9MLX4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UdWBhbD0dX8YXT-9MLX4-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="200" y="530" />
-              <mxPoint x="200" y="500" />
-            </Array>
-            <mxPoint x="220" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UdWBhbD0dX8YXT-9MLX4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UdWBhbD0dX8YXT-9MLX4-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UdWBhbD0dX8YXT-9MLX4-24" value="控制单元" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="UdWBhbD0dX8YXT-9MLX4-24" value="壳体上料" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="100" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UdWBhbD0dX8YXT-9MLX4-32" value="壳体上料" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="110" y="520" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
