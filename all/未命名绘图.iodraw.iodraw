@@ -48,6 +48,9 @@
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-16" value="大力矩伺服回转台" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="470" y="240" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UdWBhbD0dX8YXT-9MLX4-17" value="大力矩伺服回转台" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="470" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
