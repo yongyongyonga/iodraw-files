@@ -141,7 +141,7 @@
         <mxCell id="1VtDpMDysGhRXq1rGaCf-49" value="结束" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="510" y="350" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1VtDpMDysGhRXq1rGaCf-51" value="芯&lt;div&gt;体&lt;/div&gt;&lt;div&gt;吊&lt;/div&gt;&lt;div&gt;装&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="1VtDpMDysGhRXq1rGaCf-51" value="成&lt;div&gt;品&lt;/div&gt;&lt;div&gt;回&lt;/div&gt;&lt;div&gt;箱&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="610" y="170" width="40" height="70" as="geometry" />
         </mxCell>
       </root>
