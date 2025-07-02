@@ -82,6 +82,15 @@
         <mxCell id="1VtDpMDysGhRXq1rGaCf-14" value="芯体处理机构" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="310" y="320" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1VtDpMDysGhRXq1rGaCf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VtDpMDysGhRXq1rGaCf-16" target="1VtDpMDysGhRXq1rGaCf-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1VtDpMDysGhRXq1rGaCf-16" value="芯体夹持部件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="310" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1VtDpMDysGhRXq1rGaCf-17" value="旋转驱动部件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="310" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
