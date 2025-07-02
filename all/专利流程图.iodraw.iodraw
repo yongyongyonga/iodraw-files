@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="__sV5h27g5Ts2LH3zQ3w">
-    <mxGraphModel dx="350" dy="207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,8 +76,14 @@
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-36" value="结束" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="670" y="510" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1VtDpMDysGhRXq1rGaCf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VtDpMDysGhRXq1rGaCf-7" target="1VtDpMDysGhRXq1rGaCf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-7" value="旋转驱动部件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="310" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1VtDpMDysGhRXq1rGaCf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VtDpMDysGhRXq1rGaCf-14" target="1VtDpMDysGhRXq1rGaCf-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-14" value="芯体处理机构" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="310" y="320" width="100" height="40" as="geometry" />
