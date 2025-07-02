@@ -4,14 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UdWBhbD0dX8YXT-9MLX4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UdWBhbD0dX8YXT-9MLX4-1" target="UdWBhbD0dX8YXT-9MLX4-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-1" value="开始" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="324" y="50" width="80" height="40" as="geometry" />
+          <mxGeometry x="400" y="50" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-2" value="控制单元" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="120" y="270" width="80" height="40" as="geometry" />
+          <mxGeometry x="400" y="110" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-5" value="结束" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="730" y="270" width="80" height="40" as="geometry" />
