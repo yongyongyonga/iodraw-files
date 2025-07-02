@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-1" value="开始" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="320" y="10" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="20" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UdWBhbD0dX8YXT-9MLX4-2" target="UdWBhbD0dX8YXT-9MLX4-6">
           <mxGeometry relative="1" as="geometry" />
@@ -22,11 +22,14 @@
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-5" value="结束" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="730" y="270" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1VtDpMDysGhRXq1rGaCf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UdWBhbD0dX8YXT-9MLX4-6" target="UdWBhbD0dX8YXT-9MLX4-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-6" value="壳体处理机构" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="310" y="140" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-16" value="壳体夹持部件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="310" y="210" width="100" height="40" as="geometry" />
+          <mxGeometry x="310" y="200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-19" value="大力矩伺服回转台" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="550" y="270" width="100" height="40" as="geometry" />
@@ -71,7 +74,7 @@
           <mxGeometry x="670" y="510" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-7" value="旋转驱动部件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="310" y="310" width="100" height="40" as="geometry" />
+          <mxGeometry x="310" y="260" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
