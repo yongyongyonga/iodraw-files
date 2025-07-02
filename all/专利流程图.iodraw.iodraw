@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1VtDpMDysGhRXq1rGaCf-21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="160" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="160" height="180" as="geometry" />
         </mxCell>
@@ -44,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-14" value="芯体处理机构" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="150" y="350" width="100" height="40" as="geometry" />
+          <mxGeometry x="150" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VtDpMDysGhRXq1rGaCf-16" target="1VtDpMDysGhRXq1rGaCf-17">
           <mxGeometry relative="1" as="geometry" />
@@ -57,9 +60,6 @@
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-20" value="壳&lt;div&gt;体&lt;/div&gt;&lt;div&gt;上&lt;/div&gt;&lt;div&gt;料&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="40" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="1VtDpMDysGhRXq1rGaCf-21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="350" width="160" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
