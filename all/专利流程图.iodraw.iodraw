@@ -19,11 +19,17 @@
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-5" value="结束" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="730" y="270" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1VtDpMDysGhRXq1rGaCf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UdWBhbD0dX8YXT-9MLX4-6" target="UdWBhbD0dX8YXT-9MLX4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-6" value="壳体处理机构" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="310" y="130" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-16" value="壳体夹持部件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="310" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1VtDpMDysGhRXq1rGaCf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UdWBhbD0dX8YXT-9MLX4-17" target="UdWBhbD0dX8YXT-9MLX4-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-17" value="旋转驱动部件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="310" y="190" width="100" height="40" as="geometry" />
@@ -69,6 +75,9 @@
         </mxCell>
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-36" value="结束" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="670" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1VtDpMDysGhRXq1rGaCf-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
