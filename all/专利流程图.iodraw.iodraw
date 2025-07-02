@@ -16,13 +16,10 @@
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-5" value="结束" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="730" y="270" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UdWBhbD0dX8YXT-9MLX4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UdWBhbD0dX8YXT-9MLX4-6" target="UdWBhbD0dX8YXT-9MLX4-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-6" value="壳体处理机构" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="230" y="270" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UdWBhbD0dX8YXT-9MLX4-16" value="大力矩伺服回转台" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
+        <mxCell id="UdWBhbD0dX8YXT-9MLX4-16" value="壳体夹持部件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="410" y="270" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UdWBhbD0dX8YXT-9MLX4-17" value="大力矩伺服回转台" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
