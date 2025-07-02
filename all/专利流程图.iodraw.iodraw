@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1VtDpMDysGhRXq1rGaCf-27" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="160" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="350" width="160" height="180" as="geometry" />
         </mxCell>
@@ -83,8 +86,8 @@
         <mxCell id="1VtDpMDysGhRXq1rGaCf-26" value="芯&lt;div&gt;体&lt;/div&gt;&lt;div&gt;上&lt;/div&gt;&lt;div&gt;料&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="360" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1VtDpMDysGhRXq1rGaCf-27" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="360" width="160" height="180" as="geometry" />
+        <mxCell id="1VtDpMDysGhRXq1rGaCf-28" value="壳&lt;div&gt;体&lt;/div&gt;&lt;div&gt;上&lt;/div&gt;&lt;div&gt;料&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="40" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
