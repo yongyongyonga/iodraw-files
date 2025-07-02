@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1VtDpMDysGhRXq1rGaCf-50" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="160" width="160" height="180" as="geometry" />
+          <mxGeometry x="480" y="160" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="350" width="160" height="180" as="geometry" />
+          <mxGeometry x="300" y="350" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-27" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="160" width="160" height="180" as="geometry" />
+          <mxGeometry x="300" y="160" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="350" width="160" height="180" as="geometry" />
@@ -64,8 +64,8 @@
         <mxCell id="1VtDpMDysGhRXq1rGaCf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VtDpMDysGhRXq1rGaCf-17" target="1VtDpMDysGhRXq1rGaCf-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="310" y="500" />
-              <mxPoint x="310" y="150" />
+              <mxPoint x="290" y="500" />
+              <mxPoint x="290" y="150" />
               <mxPoint x="400" y="150" />
             </Array>
           </mxGeometry>
@@ -80,69 +80,69 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-22" value="拧紧作业机构" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="350" y="170" width="100" height="40" as="geometry" />
+          <mxGeometry x="330" y="170" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VtDpMDysGhRXq1rGaCf-23" target="1VtDpMDysGhRXq1rGaCf-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-23" value="吊装连接部件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="350" y="230" width="100" height="40" as="geometry" />
+          <mxGeometry x="330" y="230" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VtDpMDysGhRXq1rGaCf-24" target="1VtDpMDysGhRXq1rGaCf-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-24" value="多轴浮动拧紧部件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="350" y="290" width="100" height="40" as="geometry" />
+          <mxGeometry x="330" y="290" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-26" value="芯&lt;div&gt;体&lt;/div&gt;&lt;div&gt;上&lt;/div&gt;&lt;div&gt;料&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="360" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-28" value="芯&lt;div&gt;体&lt;/div&gt;&lt;div&gt;吊&lt;/div&gt;&lt;div&gt;装&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="170" width="40" height="70" as="geometry" />
+          <mxGeometry x="430" y="170" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VtDpMDysGhRXq1rGaCf-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="410" as="targetPoint" />
+            <mxPoint x="380" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-32" value="高精度检测部件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="350" y="360" width="100" height="40" as="geometry" />
+          <mxGeometry x="330" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VtDpMDysGhRXq1rGaCf-35" target="1VtDpMDysGhRXq1rGaCf-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-35" value="多轴浮动拧紧部件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="350" y="420" width="100" height="40" as="geometry" />
+          <mxGeometry x="330" y="420" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VtDpMDysGhRXq1rGaCf-38" target="1VtDpMDysGhRXq1rGaCf-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-38" value="吊装连接部件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="350" y="480" width="100" height="40" as="geometry" />
+          <mxGeometry x="330" y="480" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-41" value="芯&lt;div&gt;体&lt;/div&gt;&lt;div&gt;壳&lt;/div&gt;&lt;div&gt;体&lt;/div&gt;&lt;div&gt;装&lt;/div&gt;&lt;div&gt;配&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="360" width="40" height="100" as="geometry" />
+          <mxGeometry x="430" y="360" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1VtDpMDysGhRXq1rGaCf-43" target="1VtDpMDysGhRXq1rGaCf-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-43" value="壳体处理机构" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="530" y="170" width="100" height="40" as="geometry" />
+          <mxGeometry x="510" y="170" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-44" value="壳体夹持部件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="530" y="290" width="100" height="40" as="geometry" />
+          <mxGeometry x="510" y="290" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1VtDpMDysGhRXq1rGaCf-45" target="1VtDpMDysGhRXq1rGaCf-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-45" value="旋转驱动部件" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="530" y="230" width="100" height="40" as="geometry" />
+          <mxGeometry x="510" y="230" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-49" value="结束" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="530" y="350" width="100" height="40" as="geometry" />
+          <mxGeometry x="510" y="350" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1VtDpMDysGhRXq1rGaCf-51" value="芯&lt;div&gt;体&lt;/div&gt;&lt;div&gt;吊&lt;/div&gt;&lt;div&gt;装&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="170" width="40" height="70" as="geometry" />
+          <mxGeometry x="620" y="170" width="40" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
