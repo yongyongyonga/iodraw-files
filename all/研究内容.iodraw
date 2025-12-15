@@ -108,11 +108,8 @@
         <mxCell id="GUlffj6v8OTM5-7UeASH-43" value="模态叠加&lt;div&gt;残差损失&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="253" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GUlffj6v8OTM5-7UeASH-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="180" width="420" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="GUlffj6v8OTM5-7UeASH-51" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;融合物理软约束的多任务图神经网络模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="290" y="150" width="420" height="30" as="geometry" />
+        <mxCell id="GUlffj6v8OTM5-7UeASH-52" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;基于几何修正的载荷评估模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="280" y="350" width="420" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
