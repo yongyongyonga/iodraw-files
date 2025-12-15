@@ -52,13 +52,8 @@
         <mxCell id="GUlffj6v8OTM5-7UeASH-18" value="风场特征提取&lt;div&gt;（DCT,等效转子风速）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="180" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GUlffj6v8OTM5-7UeASH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-20" value="阶段二" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="180" width="70" height="40" as="geometry" />
+          <mxGeometry x="500" y="180" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-20" target="GUlffj6v8OTM5-7UeASH-25">
           <mxGeometry relative="1" as="geometry">
@@ -67,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-25" value="叶片响应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="180" width="80" height="40" as="geometry" />
+          <mxGeometry x="600" y="180" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
