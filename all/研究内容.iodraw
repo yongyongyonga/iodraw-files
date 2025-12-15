@@ -126,6 +126,11 @@
         <mxCell id="GUlffj6v8OTM5-7UeASH-55" value="叶片几何位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="400" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="GUlffj6v8OTM5-7UeASH-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-56" value="叶片局部风速" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="400" width="95" height="40" as="geometry" />
         </mxCell>
