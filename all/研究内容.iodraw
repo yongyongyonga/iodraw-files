@@ -205,11 +205,17 @@
             <mxPoint x="550" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GUlffj6v8OTM5-7UeASH-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-83" target="GUlffj6v8OTM5-7UeASH-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-83" value="叶片结构响应评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="283" width="110" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="GUlffj6v8OTM5-7UeASH-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-84" target="GUlffj6v8OTM5-7UeASH-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-84" value="模型二" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="363" width="110" height="30" as="geometry" />
+          <mxGeometry x="770" y="340" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-86" value="载荷评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="420" width="110" height="37" as="geometry" />
