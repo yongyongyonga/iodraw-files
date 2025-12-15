@@ -40,16 +40,20 @@
         <mxCell id="GUlffj6v8OTM5-7UeASH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-14" target="GUlffj6v8OTM5-7UeASH-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="500" />
+              <mxPoint x="280" y="220" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-14" value="数据清洗与&lt;div&gt;归一化处理&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-16" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;融合物理软约束的多任务图神经网络模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="280" y="140" width="300" height="30" as="geometry" />
+          <mxGeometry x="290" y="140" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-18" value="风场特征提取&lt;div&gt;（DCT,等效转子风速）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="200" width="130" height="40" as="geometry" />
+          <mxGeometry x="310" y="200" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
