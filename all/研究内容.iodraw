@@ -135,9 +135,9 @@
           <mxGeometry x="410" y="400" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-60" value="GRU模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="420" width="70" height="40" as="geometry" />
+          <mxGeometry x="530" y="460" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GUlffj6v8OTM5-7UeASH-61" value="叶片分布&lt;div&gt;气动载荷&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GUlffj6v8OTM5-7UeASH-61" value="叶片局部&lt;div&gt;气动载荷&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="460" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
