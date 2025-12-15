@@ -172,15 +172,6 @@
         <mxCell id="GUlffj6v8OTM5-7UeASH-13" value="&lt;span style=&quot;background-color: rgb(230, 230, 230);&quot;&gt;验证通过&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GUlffj6v8OTM5-7UeASH-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="370" as="sourcePoint" />
-            <mxPoint x="260" y="200" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="260" y="490" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
