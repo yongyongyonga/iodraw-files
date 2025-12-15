@@ -73,13 +73,8 @@
         <mxCell id="GUlffj6v8OTM5-7UeASH-28" value="阶段一" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GUlffj6v8OTM5-7UeASH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-30" value="叶片桨距角" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="240" width="86" height="30" as="geometry" />
+          <mxGeometry x="430" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-32" value="转子转速" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="290" width="86" height="30" as="geometry" />
