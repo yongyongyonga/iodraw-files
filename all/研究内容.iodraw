@@ -67,6 +67,9 @@
             <mxPoint x="520" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GUlffj6v8OTM5-7UeASH-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-25" target="GUlffj6v8OTM5-7UeASH-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-25" value="叶片响应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="180" width="80" height="40" as="geometry" />
         </mxCell>
@@ -100,7 +103,7 @@
           <mxGeometry x="500" y="268" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-43" value="模态叠加&lt;div&gt;残差损失&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="610" y="253" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
