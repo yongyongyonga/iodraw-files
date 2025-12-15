@@ -160,6 +160,9 @@
         <mxCell id="GUlffj6v8OTM5-7UeASH-70" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;模型集成与验证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#dedede;" vertex="1" parent="1">
           <mxGeometry x="750" y="140" width="180" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GUlffj6v8OTM5-7UeASH-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
