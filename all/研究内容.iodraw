@@ -13,8 +13,14 @@
         <mxCell id="GUlffj6v8OTM5-7UeASH-4" value="TurbSim&lt;div&gt;三维湍流风场生成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="150" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="GUlffj6v8OTM5-7UeASH-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-5" target="GUlffj6v8OTM5-7UeASH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-5" value="MATLAB&lt;div&gt;Kane多体动力学模型&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="210" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="GUlffj6v8OTM5-7UeASH-7" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="317.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
