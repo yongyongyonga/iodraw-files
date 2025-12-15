@@ -191,7 +191,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-79" value="模型一" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="230" width="110" height="30" as="geometry" />
+          <mxGeometry x="750" y="230" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-80" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.464;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-49" target="GUlffj6v8OTM5-7UeASH-79">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -200,39 +200,39 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-81" value="&lt;div&gt;三维湍流风场&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="180" width="110" height="30" as="geometry" />
+          <mxGeometry x="750" y="180" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-82" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-81" target="GUlffj6v8OTM5-7UeASH-79">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="380" as="sourcePoint" />
-            <mxPoint x="550" y="330" as="targetPoint" />
+            <mxPoint x="480" y="380" as="sourcePoint" />
+            <mxPoint x="530" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-83" target="GUlffj6v8OTM5-7UeASH-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-83" value="叶片结构响应评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="283" width="110" height="37" as="geometry" />
+          <mxGeometry x="750" y="283" width="110" height="37" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-84" target="GUlffj6v8OTM5-7UeASH-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-84" value="模型二" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="340" width="110" height="30" as="geometry" />
+          <mxGeometry x="750" y="340" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-86">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="825" y="470" as="targetPoint" />
+            <mxPoint x="805" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-86" value="叶片载荷评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="390" width="110" height="37" as="geometry" />
+          <mxGeometry x="750" y="390" width="110" height="37" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-90" value="疲劳损伤计算与评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="471.5" width="110" height="37" as="geometry" />
+          <mxGeometry x="750" y="471.5" width="110" height="37" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-92" value="雨流计数法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#dedede;" vertex="1" parent="1">
-          <mxGeometry x="785" y="430" width="80" height="30" as="geometry" />
+          <mxGeometry x="765" y="430" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
