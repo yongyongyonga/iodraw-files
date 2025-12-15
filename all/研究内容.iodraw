@@ -233,16 +233,6 @@
         <mxCell id="GUlffj6v8OTM5-7UeASH-92" value="雨流计数法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#dedede;" parent="1" vertex="1">
           <mxGeometry x="765" y="430" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2QCs5CfbVpNQV9h8H7Eu-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="300" as="sourcePoint" />
-            <mxPoint x="850" y="560" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="40" y="350" />
-              <mxPoint x="40" y="550" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
