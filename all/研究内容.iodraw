@@ -28,11 +28,8 @@
         <mxCell id="GUlffj6v8OTM5-7UeASH-9" value="批量化仿真&lt;div&gt;正常/极端工况&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GUlffj6v8OTM5-7UeASH-12" value="验证通过" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#E6E6E6;fillColor=#e6e6e6;" vertex="1" parent="1">
-          <mxGeometry x="440" y="350" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="GUlffj6v8OTM5-7UeASH-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="310" width="60" height="30" as="geometry" />
+        <mxCell id="GUlffj6v8OTM5-7UeASH-13" value="&lt;span style=&quot;background-color: rgb(230, 230, 230);&quot;&gt;验证通过&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="350" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
