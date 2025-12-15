@@ -126,14 +126,8 @@
         <mxCell id="GUlffj6v8OTM5-7UeASH-55" value="叶片几何位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="400" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GUlffj6v8OTM5-7UeASH-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-56">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="460" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="510" y="420" />
-              <mxPoint x="510" y="460" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="GUlffj6v8OTM5-7UeASH-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-56" target="GUlffj6v8OTM5-7UeASH-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-56" value="叶片局部风速" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="400" width="90" height="40" as="geometry" />
@@ -145,7 +139,7 @@
           <mxGeometry x="530" y="430" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-61" value="叶片局部&lt;div&gt;气动载荷&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="440" width="70" height="40" as="geometry" />
+          <mxGeometry x="620" y="430" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-63" value="转子转速、叶片桨距角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="460" width="90" height="40" as="geometry" />
