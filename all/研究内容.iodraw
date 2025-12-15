@@ -43,11 +43,6 @@
         <mxCell id="GUlffj6v8OTM5-7UeASH-13" value="&lt;span style=&quot;background-color: rgb(230, 230, 230);&quot;&gt;验证通过&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GUlffj6v8OTM5-7UeASH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-14" value="数据清洗与&lt;div&gt;归一化处理&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="480" width="120" height="40" as="geometry" />
         </mxCell>
@@ -115,6 +110,12 @@
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-52" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;基于几何修正的载荷评估模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="280" y="350" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GUlffj6v8OTM5-7UeASH-54" value="" style="endArrow=none;html=1;rounded=0;exitX=1.032;exitY=0.641;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="400" as="sourcePoint" />
+            <mxPoint x="260" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
