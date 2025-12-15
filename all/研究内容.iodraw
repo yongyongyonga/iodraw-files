@@ -46,7 +46,7 @@
         <mxCell id="GUlffj6v8OTM5-7UeASH-14" value="数据清洗与&lt;div&gt;归一化处理&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GUlffj6v8OTM5-7UeASH-16" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;融合物理软约束的多任务图神经网络模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="GUlffj6v8OTM5-7UeASH-16" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;融合物理软约束的多任务图神经网络模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#dedede;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-18" target="GUlffj6v8OTM5-7UeASH-20">
