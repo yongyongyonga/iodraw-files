@@ -37,15 +37,6 @@
         <mxCell id="GUlffj6v8OTM5-7UeASH-13" value="&lt;span style=&quot;background-color: rgb(230, 230, 230);&quot;&gt;验证通过&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GUlffj6v8OTM5-7UeASH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-14" target="GUlffj6v8OTM5-7UeASH-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="220" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="270" y="500" />
-              <mxPoint x="270" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-14" value="数据清洗与&lt;div&gt;归一化处理&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="480" width="120" height="40" as="geometry" />
         </mxCell>
@@ -56,7 +47,7 @@
           <mxGeometry x="310" y="200" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="190" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
