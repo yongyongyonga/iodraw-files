@@ -220,7 +220,7 @@
         <mxCell id="GUlffj6v8OTM5-7UeASH-86" value="叶片载荷评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="390" width="110" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="GUlffj6v8OTM5-7UeASH-90" value="载荷评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GUlffj6v8OTM5-7UeASH-90" value="疲劳损伤计算与评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="450" width="110" height="37" as="geometry" />
         </mxCell>
       </root>
