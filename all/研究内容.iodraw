@@ -29,7 +29,10 @@
           <mxGeometry x="120" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-12" value="验证通过" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#E6E6E6;fillColor=#e6e6e6;" vertex="1" parent="1">
-          <mxGeometry x="350" y="290" width="70" height="20" as="geometry" />
+          <mxGeometry x="440" y="350" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GUlffj6v8OTM5-7UeASH-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
