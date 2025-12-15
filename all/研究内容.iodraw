@@ -40,11 +40,11 @@
         <mxCell id="GUlffj6v8OTM5-7UeASH-14" value="数据清洗与&lt;div&gt;归一化处理&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GUlffj6v8OTM5-7UeASH-16" value="基于物理先验的&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;风机叶片动态响应与载荷多阶段评估&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="GUlffj6v8OTM5-7UeASH-16" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;融合物理软约束的多任务图神经网络模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
