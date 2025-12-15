@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GUlffj6v8OTM5-7UeASH-1" value="多体动力学模型及数据生成" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="GUlffj6v8OTM5-7UeASH-1" value="多体动力学模型及数据生成" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="90" y="110" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GUlffj6v8OTM5-7UeASH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
