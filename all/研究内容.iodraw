@@ -157,8 +157,8 @@
         <mxCell id="GUlffj6v8OTM5-7UeASH-63" value="转子转速、叶片桨距角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="470" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GUlffj6v8OTM5-7UeASH-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="GUlffj6v8OTM5-7UeASH-70" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;模型集成与验证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#dedede;" vertex="1" parent="1">
+          <mxGeometry x="730" y="210" width="420" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
