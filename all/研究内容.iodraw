@@ -44,7 +44,7 @@
           <mxGeometry x="100" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-16" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;融合物理软约束的多任务图神经网络模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="290" y="140" width="300" height="30" as="geometry" />
+          <mxGeometry x="290" y="140" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GUlffj6v8OTM5-7UeASH-18" target="GUlffj6v8OTM5-7UeASH-20">
           <mxGeometry relative="1" as="geometry" />
@@ -95,6 +95,9 @@
         </mxCell>
         <mxCell id="GUlffj6v8OTM5-7UeASH-40" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="500" y="268" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="GUlffj6v8OTM5-7UeASH-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
