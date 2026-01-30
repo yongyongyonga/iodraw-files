@@ -44,6 +44,13 @@
         <mxCell id="YLe6QOa3pHZRm7yaY1eP-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;σ&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="320" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="YLe6QOa3pHZRm7yaY1eP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.192;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YLe6QOa3pHZRm7yaY1eP-11" target="YLe6QOa3pHZRm7yaY1eP-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
