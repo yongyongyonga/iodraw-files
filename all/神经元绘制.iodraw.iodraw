@@ -41,8 +41,8 @@
         <mxCell id="YLe6QOa3pHZRm7yaY1eP-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="280" y="300" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YLe6QOa3pHZRm7yaY1eP-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="YLe6QOa3pHZRm7yaY1eP-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;σ&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
