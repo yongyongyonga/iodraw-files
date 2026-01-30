@@ -95,8 +95,8 @@
             <mxPoint x="380" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YLe6QOa3pHZRm7yaY1eP-24" value="&lt;font face=&quot;宋体&quot;&gt;候选隐状态&lt;/font&gt;&lt;div&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;～h&lt;sub&gt;t&lt;/sub&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="318" width="80" height="50" as="geometry" />
+        <mxCell id="YLe6QOa3pHZRm7yaY1eP-24" value="&lt;font face=&quot;宋体&quot;&gt;候选隐状态&lt;/font&gt;&lt;div&gt;\tilde{h}_t&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="323" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
