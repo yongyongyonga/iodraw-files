@@ -126,7 +126,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YLe6QOa3pHZRm7yaY1eP-34" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;宋体&quot;&gt;更新门&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;&quot;&gt;z&lt;sub style=&quot;&quot;&gt;t&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="263" width="60" height="40" as="geometry" />
+          <mxGeometry x="390" y="300" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
