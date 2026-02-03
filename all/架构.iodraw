@@ -136,8 +136,8 @@
         <mxCell id="eKgYvDz2yEo9mAza_MmO-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-52" target="eKgYvDz2yEo9mAza_MmO-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eKgYvDz2yEo9mAza_MmO-52" value="&lt;font face=&quot;宋体&quot;&gt;总损失&lt;/font&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;L=L&lt;sub&gt;data&lt;/sub&gt;+L&lt;sub&gt;phy&lt;/sub&gt;&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="297.13" y="380" width="120.5" height="40" as="geometry" />
+        <mxCell id="eKgYvDz2yEo9mAza_MmO-52" value="&lt;font face=&quot;宋体&quot;&gt;总损失&lt;/font&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;L=λL&lt;/i&gt;&lt;sub style=&quot;font-style: italic;&quot;&gt;data&lt;/sub&gt;&lt;i&gt;+&lt;/i&gt;（&lt;i&gt;1-λ&lt;/i&gt;）&lt;i&gt;L&lt;/i&gt;&lt;sub style=&quot;font-style: italic;&quot;&gt;phy&lt;/sub&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="297.13" y="380" width="162.87" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-56" target="eKgYvDz2yEo9mAza_MmO-51">
           <mxGeometry relative="1" as="geometry" />
