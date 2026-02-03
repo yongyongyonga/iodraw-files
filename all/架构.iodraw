@@ -67,7 +67,13 @@
         <mxCell id="eKgYvDz2yEo9mAza_MmO-28" value="&lt;font face=&quot;宋体&quot;&gt;输出特征&lt;/font&gt;&lt;br&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;α&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="210" width="60.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eKgYvDz2yEo9mAza_MmO-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="eKgYvDz2yEo9mAza_MmO-28">
+        <mxCell id="eKgYvDz2yEo9mAza_MmO-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.873;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-16" target="eKgYvDz2yEo9mAza_MmO-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="240" as="sourcePoint" />
+            <mxPoint x="390" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKgYvDz2yEo9mAza_MmO-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="eKgYvDz2yEo9mAza_MmO-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="240" as="sourcePoint" />
             <mxPoint x="390" y="190" as="targetPoint" />
