@@ -169,6 +169,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="eKgYvDz2yEo9mAza_MmO-66" value="计算入流角&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;φ&lt;/i&gt;=&lt;i&gt;α&lt;/i&gt;+&lt;i&gt;θp&lt;/i&gt;+&lt;i&gt;θ&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="290" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
