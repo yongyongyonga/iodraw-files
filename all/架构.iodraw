@@ -149,7 +149,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-56" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;真实攻角&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;α&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#94C6CD;" parent="1" vertex="1">
-          <mxGeometry x="670" y="155" width="60" height="30" as="geometry" />
+          <mxGeometry x="670" y="150" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eKgYvDz2yEo9mAza_MmO-60" target="eKgYvDz2yEo9mAza_MmO-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -214,6 +214,9 @@
               <mxPoint x="760" y="310" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aFBZVw5baa9QRt7dQghf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.351;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-52" target="eKgYvDz2yEo9mAza_MmO-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
