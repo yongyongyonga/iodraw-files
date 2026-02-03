@@ -10,11 +10,8 @@
         <mxCell id="YUrbzTvGCictKt6LW8tU-2" value="神经网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="355" y="130" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YUrbzTvGCictKt6LW8tU-5" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="70" y="220" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="YUrbzTvGCictKt6LW8tU-3" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;输入特征&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Vx,Vy,Ω,θ&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="YUrbzTvGCictKt6LW8tU-5">
-          <mxGeometry width="130" height="50" as="geometry" />
+        <mxCell id="YUrbzTvGCictKt6LW8tU-3" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;输入特征&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Vx,Vy,Ω,θ&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="150" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
