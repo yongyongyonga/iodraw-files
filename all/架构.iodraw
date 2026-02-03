@@ -155,7 +155,7 @@
           <mxGeometry x="600" y="400" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-66" value="&lt;font face=&quot;宋体&quot;&gt;查表升阻力系数&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="300" width="110" height="40" as="geometry" />
+          <mxGeometry x="600" y="310" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-67" value="&lt;font face=&quot;宋体&quot;&gt;计算诱导因子&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="350" width="110" height="40" as="geometry" />
@@ -170,7 +170,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-72" value="&lt;font face=&quot;宋体&quot;&gt;物理损失&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;L&lt;sub&gt;phy&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="472.5" y="380" width="85" height="40" as="geometry" />
+          <mxGeometry x="472.5" y="400" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-73" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.007;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-28" target="eKgYvDz2yEo9mAza_MmO-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
