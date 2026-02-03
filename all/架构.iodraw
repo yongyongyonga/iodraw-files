@@ -135,8 +135,16 @@
         <mxCell id="eKgYvDz2yEo9mAza_MmO-51" value="数据损失&lt;div&gt;&lt;i&gt;L&lt;sub&gt;data&lt;/sub&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="205" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eKgYvDz2yEo9mAza_MmO-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-52" value="&lt;font face=&quot;宋体&quot;&gt;总损失&lt;/font&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;L&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="429.5" y="390" width="120.5" height="40" as="geometry" />
+          <mxGeometry x="284.75" y="370" width="120.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eKgYvDz2yEo9mAza_MmO-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="164.75" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
