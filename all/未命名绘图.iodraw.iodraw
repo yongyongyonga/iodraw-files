@@ -10,11 +10,14 @@
         <mxCell id="YUrbzTvGCictKt6LW8tU-2" value="神经网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="355" y="130" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YUrbzTvGCictKt6LW8tU-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YUrbzTvGCictKt6LW8tU-5" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="45" y="260" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YUrbzTvGCictKt6LW8tU-4" value="输入特征" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="75" y="270" width="70" height="30" as="geometry" />
+        <mxCell id="YUrbzTvGCictKt6LW8tU-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="YUrbzTvGCictKt6LW8tU-5">
+          <mxGeometry width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YUrbzTvGCictKt6LW8tU-4" value="输入特征&lt;div&gt;Vx,Vy,Ω,θ&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="YUrbzTvGCictKt6LW8tU-5">
+          <mxGeometry x="25" y="5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
