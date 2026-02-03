@@ -169,8 +169,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eKgYvDz2yEo9mAza_MmO-71" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="310" width="60" height="30" as="geometry" />
+        <mxCell id="eKgYvDz2yEo9mAza_MmO-71" value="&lt;font face=&quot;宋体&quot;&gt;物理损失&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Lphy&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
