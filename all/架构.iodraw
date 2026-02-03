@@ -170,7 +170,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-72" value="&lt;font face=&quot;宋体&quot;&gt;物理损失&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;L&lt;sub&gt;phy&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="370" width="85" height="40" as="geometry" />
+          <mxGeometry x="472.5" y="380" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eKgYvDz2yEo9mAza_MmO-73" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
