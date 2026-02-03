@@ -173,7 +173,7 @@
         <mxCell id="eKgYvDz2yEo9mAza_MmO-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-66" target="eKgYvDz2yEo9mAza_MmO-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eKgYvDz2yEo9mAza_MmO-66" value="&lt;font face=&quot;宋体&quot;&gt;查表升阻力系数&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+        <mxCell id="eKgYvDz2yEo9mAza_MmO-66" value="&lt;font face=&quot;宋体&quot;&gt;查表升阻力系数&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#88CCEE;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="600" y="270" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-67" target="eKgYvDz2yEo9mAza_MmO-60">
