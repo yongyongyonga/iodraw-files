@@ -103,6 +103,18 @@
             <mxPoint x="330" y="214.89" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="eKgYvDz2yEo9mAza_MmO-45" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="234.89" as="sourcePoint" />
+            <mxPoint x="340" y="234.89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKgYvDz2yEo9mAza_MmO-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="224" as="sourcePoint" />
+            <mxPoint x="350" y="224" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
