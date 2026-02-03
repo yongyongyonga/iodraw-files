@@ -140,13 +140,13 @@
           <mxGeometry x="600" y="250" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-51" value="&lt;font face=&quot;宋体&quot;&gt;数据损失&lt;/font&gt;&lt;div&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;L&lt;sub&gt;data&lt;/sub&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="180" width="80" height="40" as="geometry" />
+          <mxGeometry x="570" y="150" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-52" target="eKgYvDz2yEo9mAza_MmO-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-52" value="&lt;font face=&quot;宋体&quot;&gt;总损失&lt;/font&gt;&lt;i style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;L=&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;λ&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;L&lt;/font&gt;&lt;/i&gt;&lt;sub style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-style: italic;&quot;&gt;data&lt;/sub&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;+&lt;/i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（&lt;/font&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;1-λ&lt;/i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;）&lt;/font&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;L&lt;/i&gt;&lt;sub style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-style: italic;&quot;&gt;phy&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="276.63" y="380" width="162.87" height="40" as="geometry" />
+          <mxGeometry x="276.63" y="395" width="162.87" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-56" target="eKgYvDz2yEo9mAza_MmO-51">
           <mxGeometry relative="1" as="geometry" />
