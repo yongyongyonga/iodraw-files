@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="oQrWqBcnLqEF_q_uffGk">
-    <mxGraphModel dx="724" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="420" dy="248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
           <mxGeometry x="590" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-51" value="数据损失&lt;div&gt;&lt;i&gt;L&lt;sub&gt;data&lt;/sub&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-52" target="eKgYvDz2yEo9mAza_MmO-54">
           <mxGeometry relative="1" as="geometry" />
@@ -139,7 +139,10 @@
         <mxCell id="eKgYvDz2yEo9mAza_MmO-52" value="&lt;font face=&quot;宋体&quot;&gt;总损失&lt;/font&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;L=L&lt;sub&gt;data&lt;/sub&gt;+L&lt;sub&gt;phy&lt;/sub&gt;&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="297.13" y="380" width="120.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eKgYvDz2yEo9mAza_MmO-56" value="&lt;font style=&quot;&quot; face=&quot;宋体&quot;&gt;预测攻角&lt;/font&gt;&lt;div&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;α&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eKgYvDz2yEo9mAza_MmO-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-56" target="eKgYvDz2yEo9mAza_MmO-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKgYvDz2yEo9mAza_MmO-56" value="&lt;font style=&quot;&quot; face=&quot;宋体&quot;&gt;真实攻角&lt;/font&gt;&lt;div&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;α&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="150" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
