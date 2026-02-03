@@ -131,7 +131,7 @@
           <mxGeometry x="240" y="250" width="74.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-49" value="计算入流角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="270" width="110" height="40" as="geometry" />
+          <mxGeometry x="600" y="250" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-51" value="数据损失&lt;div&gt;&lt;i&gt;L&lt;sub&gt;data&lt;/sub&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="195" width="110" height="40" as="geometry" />
@@ -155,13 +155,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-60" value="计算残差&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;R&lt;/i&gt;(&lt;i&gt;φ&lt;/i&gt;)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="420" width="110" height="40" as="geometry" />
+          <mxGeometry x="600" y="400" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-66" value="查表升阻力系数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="320" width="110" height="40" as="geometry" />
+          <mxGeometry x="600" y="300" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-67" value="计算诱导因子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="370" width="110" height="40" as="geometry" />
+          <mxGeometry x="600" y="350" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
