@@ -4,26 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eKgYvDz2yEo9mAza_MmO-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eKgYvDz2yEo9mAza_MmO-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="179.5" y="150" width="365.25" height="180" as="geometry" />
         </mxCell>
         <mxCell id="YUrbzTvGCictKt6LW8tU-3" value="&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Vx&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Vy&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Ω&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;θ&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="180" width="40" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="eKgYvDz2yEo9mAza_MmO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.053;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-3" target="eKgYvDz2yEo9mAza_MmO-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eKgYvDz2yEo9mAza_MmO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.188;entryY=0.902;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.803;exitY=0.502;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-6" target="eKgYvDz2yEo9mAza_MmO-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eKgYvDz2yEo9mAza_MmO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.186;entryY=0.895;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-5" target="eKgYvDz2yEo9mAza_MmO-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eKgYvDz2yEo9mAza_MmO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.182;entryY=0.899;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-4" target="eKgYvDz2yEo9mAza_MmO-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eKgYvDz2yEo9mAza_MmO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.18;entryY=0.914;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-2" target="eKgYvDz2yEo9mAza_MmO-15">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-1" target="eKgYvDz2yEo9mAza_MmO-15">
           <mxGeometry relative="1" as="geometry" />
