@@ -209,7 +209,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-81" value="&lt;font face=&quot;宋体&quot;&gt;反向传播&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="335" y="328" width="70" height="30" as="geometry" />
+          <mxGeometry x="349.5" y="335" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
