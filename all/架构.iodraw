@@ -136,7 +136,7 @@
           <mxGeometry x="590" y="205" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-52" value="&lt;font face=&quot;宋体&quot;&gt;总损失&lt;/font&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;L&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="429.5" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="429.5" y="420" width="120.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
