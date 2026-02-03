@@ -139,6 +139,16 @@
         <mxCell id="eKgYvDz2yEo9mAza_MmO-49" value="&lt;font face=&quot;宋体&quot;&gt;计算入流角&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="220" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="eKgYvDz2yEo9mAza_MmO-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-51" target="eKgYvDz2yEo9mAza_MmO-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="140" />
+              <mxPoint x="750" y="140" />
+              <mxPoint x="750" y="425" />
+              <mxPoint x="357" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-51" value="&lt;font face=&quot;宋体&quot;&gt;数据损失&lt;/font&gt;&lt;div&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;L&lt;sub&gt;data&lt;/sub&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="150" width="80" height="40" as="geometry" />
         </mxCell>
