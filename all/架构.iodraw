@@ -131,7 +131,7 @@
           <mxGeometry x="600" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-51" value="数据损失&lt;div&gt;&lt;i&gt;L&lt;sub&gt;data&lt;/sub&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="205" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="215" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-52" target="eKgYvDz2yEo9mAza_MmO-54">
           <mxGeometry relative="1" as="geometry" />
