@@ -131,7 +131,7 @@
           <mxGeometry x="590" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-51" value="数据损失&lt;div&gt;&lt;i&gt;L&lt;sub&gt;data&lt;/sub&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-52" target="eKgYvDz2yEo9mAza_MmO-54">
           <mxGeometry relative="1" as="geometry" />
@@ -144,6 +144,12 @@
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-56" value="&lt;font style=&quot;&quot; face=&quot;宋体&quot;&gt;真实攻角&lt;/font&gt;&lt;div&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;α&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eKgYvDz2yEo9mAza_MmO-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="eKgYvDz2yEo9mAza_MmO-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="240" as="sourcePoint" />
+            <mxPoint x="580" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
