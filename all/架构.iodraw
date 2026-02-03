@@ -134,7 +134,7 @@
           <mxGeometry x="240" y="250" width="74.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-49" value="&lt;font face=&quot;宋体&quot;&gt;计算入流角&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="250" width="110" height="40" as="geometry" />
+          <mxGeometry x="600" y="250" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-51" value="&lt;font face=&quot;宋体&quot;&gt;数据损失&lt;/font&gt;&lt;div&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;L&lt;sub&gt;data&lt;/sub&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="180" width="110" height="40" as="geometry" />
@@ -152,13 +152,13 @@
           <mxGeometry x="630" y="130" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-60" value="&lt;font face=&quot;宋体&quot;&gt;计算残差&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;R&lt;/i&gt;(&lt;i&gt;φ&lt;/i&gt;)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="400" width="110" height="40" as="geometry" />
+          <mxGeometry x="600" y="410" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-66" value="&lt;font face=&quot;宋体&quot;&gt;查表升阻力系数&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="310" width="110" height="30" as="geometry" />
+          <mxGeometry x="600" y="300" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-67" value="&lt;font face=&quot;宋体&quot;&gt;计算诱导因子&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="350" width="110" height="40" as="geometry" />
+          <mxGeometry x="600" y="350" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eKgYvDz2yEo9mAza_MmO-28" target="eKgYvDz2yEo9mAza_MmO-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
