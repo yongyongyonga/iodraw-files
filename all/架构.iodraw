@@ -405,9 +405,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fx4YWJjFtBfnXC6XjSdp-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endSize=0;strokeWidth=0.5;" edge="1" parent="1" source="fx4YWJjFtBfnXC6XjSdp-44" target="fx4YWJjFtBfnXC6XjSdp-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="fx4YWJjFtBfnXC6XjSdp-44" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;strokeWidth=0.5;" vertex="1" parent="1">
           <mxGeometry x="72.3076923076923" y="184.44444444444446" width="6.923076923076923" height="4.444444444444445" as="geometry" />
         </mxCell>
