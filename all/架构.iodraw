@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-66" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;查表升阻力系数&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bdbfc1;fontColor=default;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="600" y="257.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="600" y="247" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eKgYvDz2yEo9mAza_MmO-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;" parent="1" source="eKgYvDz2yEo9mAza_MmO-67" target="eKgYvDz2yEo9mAza_MmO-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
