@@ -96,8 +96,8 @@
             <mxPoint x="730" y="298" as="targetPoint" />
             <Array as="points">
               <mxPoint x="180" y="140" />
-              <mxPoint x="760" y="140" />
-              <mxPoint x="760" y="270" />
+              <mxPoint x="740" y="140" />
+              <mxPoint x="740" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -925,6 +925,9 @@
             <mxPoint x="665" y="268" as="sourcePoint" />
             <mxPoint x="665" y="280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fx4YWJjFtBfnXC6XjSdp-252" value="&lt;div style=&quot;text-wrap: nowrap; font-size: 16px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Vx&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap; font-size: 16px;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Vy&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap; font-size: 16px;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Ω&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap; font-size: 16px;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;θ&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#cde2e5;fontColor=default;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="170" y="192.5" width="40" height="91.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
