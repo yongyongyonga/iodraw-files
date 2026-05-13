@@ -612,8 +612,8 @@
             <mxPoint x="62" y="28" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fx4YWJjFtBfnXC6XjSdp-110" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="50" y="170" width="60" height="40" as="geometry" />
+        <mxCell id="fx4YWJjFtBfnXC6XjSdp-110" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="330" y="197.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fx4YWJjFtBfnXC6XjSdp-111" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="fx4YWJjFtBfnXC6XjSdp-110">
           <mxGeometry width="60" height="40" as="geometry" />
